@@ -1,6 +1,6 @@
-🚀 CodeLab – Online Code Editor
+🚀 CodePen-clone – Online Code Editor
 
-CodeLab is a web-based code editor inspired by CodePen. It allows users to write HTML, CSS, and JavaScript in separate panels and instantly preview the output in real time.
+CodePen is a web-based code editor. It allows users to write HTML, CSS, and JavaScript in separate panels and instantly preview the output in real time.
 
 🌐 Live Demo
 
@@ -25,3 +25,6 @@ https://codepen-clone-zeta-eight.vercel.app
 * CodeMirror
 * Font Awesome
 * Vercel
+
+📸 Screenshot
+![CodePen-clone Screenshot](./screenshot.png)
